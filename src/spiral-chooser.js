@@ -1,8 +1,3 @@
-/*
-Needs to take an array of {name, data}...
-hot reloading is still working well here
-*/
-
 import React from "react";
 import Spiral from "./Spiral";
 import R from "ramda";
@@ -19,7 +14,6 @@ export default class Chooser extends React.Component {
   render() {
     const data = this.props.sources[this.state.idx];
     const extent = getExtent(this.props.sources);
-    console.log(extent);
     return (
       <div>
         {this.props.labels.map((name, idx) => (
