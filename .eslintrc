@@ -1,0 +1,7 @@
+{
+  "extends": ["@mft/eslint-config-momentumft/react", "prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
