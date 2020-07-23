@@ -3,7 +3,7 @@
 This is a React component for displaying spiral charts.
 It uses D3.js for some of the calculations, but all rendering is handled via React.
 
-There is a demo here: https://weather-spiral.davetonge.co.uk/
+There is a demo here: https://spiral.tonge.org/
 
 There are two rendering modes: SVG and Canvas.
 Because many spiral charts will have large amounts of data points - the canvas
