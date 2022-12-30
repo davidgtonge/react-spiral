@@ -27,7 +27,7 @@
   "devDependencies": {
     "@babel/core": "^7.4.3",
     "@mft/eslint-config-momentumft": "^4.0.0",
-    "@storybook/react": "^5.0.10",
+    "@storybook/react": "^6.5.15",
     "babel-loader": "^8.0.5",
     "chai": "^4.2.0",
     "chai-almost": "^1.0.1",
@@ -37,7 +37,7 @@
     "eslint-plugin-prettier": "^3.0.1",
     "eslint-plugin-react": "^7.12.4",
     "prettier": "^1.17.0",
-    "webpack": "^4.30.0"
+    "webpack": "^5.75.0"
   },
   "prettier": {
     "trailingComma": "es5",
